@@ -1,15 +1,25 @@
 <div align="center">
 	<img src="assets/images/logo.png" alt="SmartQuizAI Logo" width="120" />
 
-	# SmartQuizAI
-
-	AI-powered quiz generation app built with Flutter and Firebase.
-
-	[![Flutter](https://img.shields.io/badge/Flutter-3.x-02569B?logo=flutter&logoColor=white)](https://flutter.dev)
-	[![Dart](https://img.shields.io/badge/Dart-3.x-0175C2?logo=dart&logoColor=white)](https://dart.dev)
-	[![Firebase](https://img.shields.io/badge/Firebase-Enabled-FFCA28?logo=firebase&logoColor=black)](https://firebase.google.com)
-	[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 </div>
+<h1 align="center">SmartQuizAI</h1>
+
+<p align="center">AI-powered quiz generation app built with Flutter and Firebase.</p>
+<p align="center">
+	<a href="https://flutter.dev">
+		<img src="https://img.shields.io/badge/Flutter-3.x-02569B?logo=flutter&logoColor=white" />
+	</a>
+	<a href="https://dart.dev">
+		<img src="https://img.shields.io/badge/Dart-3.x-0175C2?logo=dart&logoColor=white" />
+	</a>
+	<a href="https://firebase.google.com">
+		<img src="https://img.shields.io/badge/Firebase-Enabled-FFCA28?logo=firebase&logoColor=black" />
+	</a>
+	<a href="LICENSE">
+		<img src="https://img.shields.io/badge/License-MIT-green.svg" />
+	</a>
+</p>
+
 
 ## Overview
 
