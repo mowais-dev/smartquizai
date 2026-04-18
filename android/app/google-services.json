@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "886074519424",
+    "firebase_url": "https://smartquiz-63b4a-default-rtdb.firebaseio.com",
+    "project_id": "smartquiz-63b4a",
+    "storage_bucket": "smartquiz-63b4a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:886074519424:android:a3ee3cc41cd1d391dcdb65",
+        "android_client_info": {
+          "package_name": "com.example.smartquizai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "886074519424-mmj0fkj836g9e5petqiugho4ee53f76k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.smartquizai",
+            "certificate_hash": "f8feb08ebaa53346ca68d9d98f6de0a2077085ad"
+          }
+        },
+        {
+          "client_id": "886074519424-3ookvtogidsqva7tmk8neds79q2gqvqd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOST1gJBNmQg5G5S4wNj3ZoHnVqMnEAj8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "886074519424-3ookvtogidsqva7tmk8neds79q2gqvqd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "886074519424-e1c5mt3nija9i24o0l12d1ej02sqq652.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.smartquizai"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
